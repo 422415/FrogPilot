@@ -3,8 +3,7 @@ import time
 import json
 import jwt
 import os
-import random
-import string
+import random, string
 from pathlib import Path
 
 from datetime import datetime, timedelta
